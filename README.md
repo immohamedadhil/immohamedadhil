@@ -16,7 +16,7 @@ I'm from the Tamil Nadu, India📍. I'm a huge fan of Python, data processing wi
 ## 🌱 I’m currently learning
 
 <!-- [![gen_ai](assets/gen_ai.jpg)](#) -->
-[<img src="assets/gen_ai.jpg" height="150px">](#)
+[<img src="assets/gen_ai.png" height="150px">](#)
 [<img style="margin-left: 6.5px" src="assets/pytorch.png" alt="PyTorch" height="150px">](#)
 
 ## 🔨 I've contributed to
