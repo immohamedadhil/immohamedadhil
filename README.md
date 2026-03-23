@@ -10,7 +10,7 @@ I'm from the Tamil Nadu, India📍. I'm a huge fan of Python, data processing wi
 
 ## 🔬 Projects
 
-[<img src="assets/excel-reader-banner.svg" height="150px">](https://github.com/immohamedadhil/databricks-excel-reader)
+[<img src="assets/excel-reader-banner.svg">](https://github.com/immohamedadhil/databricks-excel-reader)
 
 ## 🔭 I'm currently working on
 
