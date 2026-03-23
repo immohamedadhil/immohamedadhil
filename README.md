@@ -8,6 +8,10 @@
 
 I'm from the Tamil Nadu, India📍. I'm a huge fan of Python, data processing with python, artificial intelligence, open-source, and writing optimized codes 💻.
 
+## 🔬 Projects
+
+[<img src="assets/Excel-reader.svg" height="150px">](https://github.com/immohamedadhil/databricks-excel-reader)
+
 ## 🔭 I'm currently working on
 
 [<img src="assets/spark_optimization.png" height="150px">](https://github.com/immohamedadhil/databricks-excel-reader)
