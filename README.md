@@ -7,9 +7,6 @@
 **Probing Frozen Vision Foundation Model Features for Tropical Cyclone Intensity: A Leakage-Free Study on the Digital Typhoon Benchmark**<br>
 Sole author. Under review at *IEEE Geoscience and Remote Sensing Letters*, 2026.<br>
 [Code and results](https://github.com/immohamedadhil/cyclone-foundation-probe)
-<!-- Uncomment once the preprint is live:
-[Code and results](https://github.com/immohamedadhil/cyclone-foundation-probe) · [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
--->
 
 I study how much tropical cyclone intensity information is linearly decodable from the frozen features of vision foundation models. A linear probe on frozen DINOv2 features classifies the four ordinal JMA intensity grades at 62.7% accuracy across 189,364 infrared images and 1,099 storms, evaluated under typhoon-grouped cross-validation so that no storm appears in both training and test.
 
@@ -25,7 +22,4 @@ I'm an AI Engineer at TCS with a data engineering background, from Tamil Nadu, I
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:imadhilmo@gmail.com)
-<!-- Uncomment once the Scholar profile has the paper indexed:
-· [Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX)
--->
+[imadhilmo@gmail.com](mailto:imadhilmo@gmail.com)
