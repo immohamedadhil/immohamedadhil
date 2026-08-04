@@ -1,38 +1,31 @@
 ## Hi there 👋, I'm Mohamed Adhil
-[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30px">](https://www.linkedin.com/in/immohamedadhil)
+<!-- [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30px">](https://www.linkedin.com/in/immohamedadhil) -->
 [<img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="30px">](https://leetcode.com/u/immohamedadhil/)
+
+## 🔬 Research
+
+**Probing Frozen Vision Foundation Model Features for Tropical Cyclone Intensity: A Leakage-Free Study on the Digital Typhoon Benchmark**<br>
+Sole author. Under review at *IEEE Geoscience and Remote Sensing Letters*, 2026.<br>
+[Code and results](https://github.com/immohamedadhil/cyclone-foundation-probe)
+<!-- Uncomment once the preprint is live:
+[Code and results](https://github.com/immohamedadhil/cyclone-foundation-probe) · [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+-->
+
+I study how much tropical cyclone intensity information is linearly decodable from the frozen features of vision foundation models. A linear probe on frozen DINOv2 features classifies the four ordinal JMA intensity grades at 62.7% accuracy across 189,364 infrared images and 1,099 storms, evaluated under typhoon-grouped cross-validation so that no storm appears in both training and test.
+
+The evaluation protocol is the main contribution. The benchmark's standard five-class "intensity" task is not an intensity scale: one of its classes is a storm type rather than a higher intensity, and another is an administrative code. Separately, splitting by image rather than by storm inflates accuracy by roughly three points through storm-identity leakage. The attention analysis is reported as a negative result, and the paper claims no state of the art, since frozen features remain behind supervised models.
+
+Research interests: self-supervised and foundation-model representations, remote sensing, label-efficient learning, and evaluation validity.
 
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=immohamedadhil)
 
-I'm from the Tamil Nadu, India📍. I'm a huge fan of Python, data processing with python, artificial intelligence, open-source, and writing optimized codes 💻.
-
-## 🔬 Projects
-
-[<img src="assets/excel-reader-banner.svg">](https://github.com/immohamedadhil/databricks-excel-reader)
-
-## 🔭 I'm currently working on
-
-[<img src="assets/spark_optimization.png" height="150px">](https://github.com/immohamedadhil/databricks-excel-reader)
-<!-- [<img style="margin-left: 6.5px" src="assets/pytorch.png" alt="PyTorch" height="150px">](#) -->
-
-## 🌱 I’m currently learning
-
-<!-- [![gen_ai](assets/gen_ai.jpg)](#) -->
-[<img src="assets/gen_ai.png" height="150px">](#)
-[<img style="margin-left: 6.5px" src="assets/pytorch.png" alt="PyTorch" height="150px">](#)
-
-## 🔨 I've contributed to
-
-[<img src="assets/pandas.png" height="50px">](https://github.com/pandas-dev/pandas/issues?q=author%3Aimmohamedadhil%20state%3Amerged)
-[<img src="assets/delta_lake.png" height="50px">](https://github.com/delta-io/delta-rs/issues?q=author%3Aimmohamedadhil%20state%3Amerged)
-
-<!-- ## ✍️ I've written about
-
-[<img src="assets/super-forms.png" height="100px">](#) -->
-
+I'm an AI Engineer at TCS with a data engineering background, from Tamil Nadu, India📍. Python, open source, and code that runs fast 💻.
 
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:imadhilmo@gmail.com)
+<!-- Uncomment once the Scholar profile has the paper indexed:
+· [Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX)
+-->
