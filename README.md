@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mohamed Adhil
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30px">](https://www.linkedin.com/in/immohamedadhil) -->
-[<img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="30px">](https://leetcode.com/u/immohamedadhil/)
+<!-- [<img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="30px">](https://leetcode.com/u/immohamedadhil/) -->
 
 ## 🔬 Research
 
